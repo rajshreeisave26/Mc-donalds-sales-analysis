@@ -1,6 +1,8 @@
 # Mc-donalds-sales-analysis
 Financial and operational data analysis project evaluating net profit margins, discount impacts, and customer purchasing behavior across diverse restaurant branches.
 
+![McDonalds Sales Analytics Dashboard](Screenshot%202026-09-28%20152321.png)
+
 # 🍔 McDonald's Transaction & Sales Analytics
 
 A deep-dive data analysis project exploring retail transaction data across multiple regional hubs. This project structures raw retail entries into actionable financial insights, evaluating product category mix, customer demographics, and store operational margins.
